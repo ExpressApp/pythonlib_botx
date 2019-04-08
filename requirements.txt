@@ -1,0 +1,4 @@
+aiohttp<4.0,>=3.5
+aiojobs<0.3.0,>=0.2.2
+pydantic<0.22,>=0.21
+requests<3.0,>=2.21
